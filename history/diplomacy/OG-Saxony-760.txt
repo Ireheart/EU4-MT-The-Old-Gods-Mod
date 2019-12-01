@@ -1,0 +1,149 @@
+# Saxony Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = LUN # Luneberg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = BRE # Bremen Verden
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = FRB # Bremen
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = HOY # Hoya
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = OLD # Oldenberg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = MDN # Minden
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = RAV # Ravenberg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = PDB # Paderborn
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = LPP # Lippe
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = GTG # Gottingen
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = HIL # Hildenheim
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = BRU # Brunswick
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = BRU # Brunswick
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = SAX
+	second = HAM # Citystate Hamborg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = LAU # Laurenberg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = SAX
+	second = FRL # Citystate Lubeck
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = SHL # Schleswig-Holstein
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = DIT # Ditmarchen
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = MAG # Magdeburg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = SCH # Schwalsburg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SAX
+	second = MFD # Mansfield
+	start_date = 760.1.1
+	end_date = 866.1.1
+}

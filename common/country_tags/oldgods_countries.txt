@@ -1,0 +1,136 @@
+#
+# England
+#
+
+DEV	= "countries/Devon.txt"
+ETA	= "countries/EastAnglia.txt"
+ESX	= "countries/Essex.txt"
+HWI	= "countries/Hwicee.txt"
+JOR	= "countries/Jorvik.txt"
+KNT	= "countries/Kent.txt"
+MCR	= "countries/Mercia.txt"
+SOM	= "countries/Somerset.txt"
+SRY	= "countries/Surrey.txt"
+SUX	= "countries/Sussex.txt"
+WSX	= "countries/Wessex.txt"
+
+#
+# Wales
+#
+
+DYF = "countries/Dyfed.txt"
+GLY = "countries/Glywysing.txt"
+GWY = "countries/Gwynedd.txt"
+PWY	= "countries/Powys.txt"
+
+#
+# Scotland
+#
+
+SSI	= "countries/ShetlandIslands.txt"
+SOI	= "countries/OrkneyIslands.txt"
+MAX	= "countries/Manx.txt"
+SCY	= "countries/Strathclyde.txt"
+
+PCT = "countries/Picts.txt"
+PCA = "countries/PictCait.txt"
+PCE = "countries/PictCE.txt"
+PCI = "countries/PictCircinn.txt"
+PFB = "countries/PictFib.txt"
+PFD = "countries/PictFidach.txt"
+PFR = "countries/PictFotla.txt"
+PFT = "countries/PictFortriu.txt"
+
+#
+# Ireland
+#
+
+IBF	= "countries/Breifne.txt"
+IDH	= "countries/Deasmhumhain.txt"
+IOR	= "countries/Osraige.txt"
+ITO	= "countries/TirEoghain.txt"
+IUL	= "countries/Ulaidh.txt"
+IUM	= "countries/UIMaine.txt"
+IUH	= "countries/Urmhumhain.txt"
+IWM	= "countries/Westmeath.txt"
+
+#
+# Iceland
+#
+
+IAL	= "countries/Austerland.txt"
+IFI	= "countries/FaroeIslands.txt"
+ISL	= "countries/Suderland.txt"
+
+#
+# Brittany
+#
+
+BBE	= "countries/BrittanyBroerec.txt" # BBE - Broerec
+BBZ	= "countries/BrittanyBroRozhan.txt" # BRZ - BroRozhan
+BKN	= "countries/BrittanyKernov.txt" # BKN - Kernov
+BLN	= "countries/BrittanyLeon.txt" # BLN - Leon
+BNB	= "countries/BrittanyNamsborg.txt" # BNB - Namsborg
+BSA	= "countries/BrittanySaentMalo.txt" # BSM - SaentMalo
+BTR	= "countries/BrittanyTregor.txt" # BTR - Tregor
+
+#
+# France
+#
+
+FFA	= "countries/Frankia.txt" #FFA - Frankia
+FFE	= "countries/FranciaEast.txt" #FFE - Francia East
+FFM	= "countries/FranciaMiddle.txt" #FFM - Francia Middle
+FFW	= "countries/FranciaWest.txt" #FFW - Francia West
+FLT	= "countries/FranciaLotharingia.txt" #FLT - Lotharingia
+
+FLY	= "countries/FranciaLyon.txt" #FLY - Lyon
+FMA	= "countries/FranciaMaine.txt" #FMA - Maine
+FND	= "countries/FranciaNormandy.txt" #FND - Normandy
+FRO	= "countries/FranciaRossello.txt" #FRO - Rossello
+FTJ = "countries/FranciaTransjurania.txt" #FTJ - Transjurania
+
+#
+# Spain
+#
+
+HAS	= "countries/HispaniaAsturias.txt" #HAS - Asturias
+HBR	= "countries/HispaniaBarcelona.txt" #HBR - Barcelona
+
+HBJ	= "countries/HispaniaBeja.txt" #HBJ - Beja
+HDJ	= "countries/HispaniaBadajoz.txt" #HDJ - Badajoz
+HMC = "countries/HispaniaMurcia.txt" #HMC - Murcia
+HTO	= "countries/HispaniaToledo.txt" #HTO - Toledo
+HUD	= "countries/HispaniaUmayyad.txt" #HUD - Umayyad
+HZA = "countries/HispaniaZaragoza.txt" #HZA - Zaragoza
+
+#
+# Italy
+#
+
+ILO	= "countries/ItalyLombardy.txt"
+
+#
+# Germany
+#
+
+GCR = "countries/GermanyCarantania.txt" #GCR - Carantania
+GSR	= "countries/GermanySorbia.txt" #GSR - Sorbia
+GNS	= "countries/GermanyNisani.txt" #GNS - Nisani
+GOO	= "countries/GermanyObotritia.txt" #GOO - Obotritia
+
+#
+# Polish
+#
+
+PKY	= "countries/PolandKuyavia.txt" #PKY - Kuyavia
+
+#
+# Norway
+#
+
+NAD	= "countries/NorwayAgdir.txt" #NAD - Agdesiden - Agdir
+NHL	= "countries/NorwayHordaland.txt" #NHL - Bergenhaus - Hordaland
+NRY	= "countries/NorwayRygjafylki.txt" #NRY - Stavanger Rygjafylki
+NPE	= "countries/NorwayPelamark.txt" #NPE - Bratsberg - Pelamark
+NVF	= "countries/NorwayVestfold.txt" #NVF - Tunsberg - Vestfold

@@ -1,0 +1,29 @@
+# GNS - Nisani
+
+government = tribal
+add_government_reform = tribal_kingdom #irish_monarchy
+government_rank = 1
+mercantilism = 0.0
+technology_group = eastern
+primary_culture = wendish
+religion = norse_pagan_reformed
+capital = 65	#München
+
+100.1.1 = {
+	add_country_modifier = { name = title_4 duration = -1 }
+	set_country_flag = title_4
+	set_country_flag = k_of_gcr
+	#set_variable = { which = "centralization_decentralization" value = 4 }
+	add_absolutism = -100
+	add_absolutism = 10
+	set_legacy_government = tribal_kingdom_legacy
+}
+867.1.1 = {
+	technology_group = western
+	government = monarchy
+	add_government_reform = divine_right #feel free to revise
+	add_government_reform = delegated_rulers
+	add_government_reform = hereditary_elite
+	government_rank = 1
+	religion = catholic
+}

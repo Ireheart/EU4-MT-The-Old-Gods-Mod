@@ -1,0 +1,25 @@
+#NPE - Bratsberg - Pelamark
+
+government = tribal
+add_government_reform = tribal_kingdom #irish_monarchy
+government_rank = 1
+mercantilism = 0.0
+primary_culture = norse
+add_accepted_culture = norwegian
+add_accepted_culture = danish
+religion = norse_pagan_reformed
+technology_group = western
+historical_friend = DEN
+historical_friend = DAN
+historical_friend = JOR
+capital = 16	#Akershus
+
+100.1.1 = {
+	add_country_modifier = { name = title_4 duration = -1 }
+	set_country_flag = title_4
+	set_country_flag = k_of_npe
+	#set_variable = { which = "centralization_decentralization" value = 3 }
+	add_absolutism = -100
+	add_absolutism = 20
+	set_legacy_government = tribal_kingdom_legacy
+}

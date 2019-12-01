@@ -1,0 +1,228 @@
+# Lombardy Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = SAV # Savoi
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = SAL # Salzo
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = NIC # Niza
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = MFT #Monferrat
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = GEN # Genoa
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = VER # Verona
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = LUC
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = PIS
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = FIR
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = SIE
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = PEA
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = URB
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = VER
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = RIM
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = ANC
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = CMR
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = FRM
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = DAP
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = FER
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = MAN
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = MLO # Milan
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = ILO
+	second = ATI #Asti
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = TNT
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = VER # Verona
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = MAS # Massa
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = PAD # Padua
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = AQU # Fruili
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = GOR # Gorizia
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = ILO
+	second = TTE # Trieste
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = ILO
+	second = FIU # Fiume
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = PAR # Parma
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = ILO
+	second = BRS # Brescia
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+
+# Lombardy French Vassals

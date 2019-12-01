@@ -1,0 +1,44 @@
+# Byz Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BYZ
+	second = RAG # Ragusa
+	start_date = 760.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BYZ
+	second = SIC # Sicily
+	start_date = 760.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BYZ
+	second = CYP # Cypress
+	start_date = 760.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BYZ
+	second = NAX # Naxos
+	start_date = 760.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BYZ
+	second = THD # Theodoro
+	start_date = 760.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BYZ
+	second = ARB # Aborea
+	start_date = 760.1.1
+	end_date = 866.1.1
+}

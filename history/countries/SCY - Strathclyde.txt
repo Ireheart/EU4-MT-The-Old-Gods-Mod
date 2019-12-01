@@ -1,0 +1,44 @@
+# SCY - Strathclyde
+
+government = tribal
+add_government_reform = tribal_kingdom #irish_monarchy
+government_rank = 1
+mercantilism = 0
+technology_group = western
+primary_culture = welsh
+add_accepted_culture = highland_scottish
+religion = celtic_pagan_reformed
+capital = 3337
+fixed_capital = 3337 # Powys
+national_focus = DIP
+
+505.1.1 = {
+	add_country_modifier = { name = title_1 duration = -1 }
+	set_country_flag = title_1
+	set_country_flag = k_of_scy
+	#set_variable = { which = "centralization_decentralization" value = 5 }
+	add_absolutism = -100
+	add_absolutism = 0
+	set_legacy_government = tribal_kingdom_legacy
+}
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = "longbowmen_modifier"
+		duration = -1
+	}
+}
+
+867.1.1 = {
+	heir = {
+		name = "Burgred"
+		monarch_name = "Burgred"
+		dynasty = "Mercia"
+		birth_date = 1346.6.8
+		death_date = 1399.10.13
+		claim = 95
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}

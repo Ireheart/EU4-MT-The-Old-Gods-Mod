@@ -1,0 +1,112 @@
+# KNT - England - Kent
+
+government = monarchy
+add_government_reform = parliamentary_monarchy #feel free to revise
+add_government_reform = delegated_rulers
+add_government_reform = hereditary_elite
+government_rank = 1
+mercantilism = 0
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 235
+fixed_capital = 235 # Kent
+national_focus = DIP
+
+505.1.1 = {
+	add_country_modifier = { name = title_5 duration = -1 }
+	set_country_flag = title_5
+	set_country_flag = k_of_knt
+	#set_variable = { which = "centralization_decentralization" value = 5 }
+	add_absolutism = -100
+	add_absolutism = 0
+	set_legacy_government = feudal_monarchy
+}
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = "longbowmen_modifier"
+		duration = -1
+	}
+}
+
+765.1.1 = {
+	monarch = {
+		name = "Ecgberht"
+		monarch_name = "Ecgberht II"
+		dynasty = "Wihtgilsing"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+784.1.1 = {
+	monarch = {
+		name = "Ealhmund"
+		monarch_name = "Ealhmund"
+		dynasty = "Wihtgilsing"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+796.1.1 = {
+	monarch = {
+		name = "Eadberht"
+		monarch_name = "Eadberht III Præn"
+		dynasty = "Wihtgilsing"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+798.1.1 = {
+	monarch = {
+		name = "Cuðred"
+		monarch_name = "Cuðred"
+		dynasty = "Wihtgilsing"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+809.1.1 = {
+	monarch = {
+		name = "Cœnwulf"
+		monarch_name = "Cœnwulf"
+		dynasty = "Wihtgilsing"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+822.1.1 = {
+	monarch = {
+		name = "Ceolwulf"
+		monarch_name = "Ceolwulf"
+		dynasty = "Wihtgilsing"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+855.1.1 = {
+	monarch = {
+		name = "Æðelberht"
+		monarch_name = "Æðelberht III"
+		dynasty = "Wihtgilsing"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+868.1.1 = {
+	monarch = {
+		name = "Æðelred I"
+		monarch_name = "Æðelred I"
+		dynasty = "Wihtgilsing"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}

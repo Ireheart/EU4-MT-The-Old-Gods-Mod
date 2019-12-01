@@ -1,0 +1,31 @@
+# BSM - SaentMalo
+
+government = monarchy
+add_government_reform = divine_right #feel free to revise
+add_government_reform = delegated_rulers
+add_government_reform = hereditary_elite
+government_rank = 1
+# innovative_narrowminded = -2
+mercantilism = 0.0
+primary_culture = breton
+religion = catholic
+technology_group = western
+capital = 4008
+fixed_capital = 4008 # Saent Malo
+historical_friend = BBE
+historical_friend = BBZ
+historical_friend = BKN
+historical_friend = BLN
+historical_friend = BNB
+historical_friend = BTR
+
+100.1.1 = {
+	add_country_modifier = { name = title_3 duration = -1 }
+	set_country_flag = title_3
+	#set_variable = { which = "centralization_decentralization" value = 2 }
+	add_absolutism = -100
+	add_absolutism = 30
+	add_army_tradition = 10
+	set_country_flag = d_of_bsa
+	set_legacy_government = feudal_monarchy
+}

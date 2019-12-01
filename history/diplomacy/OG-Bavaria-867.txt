@@ -1,0 +1,93 @@
+# Bavaria Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = BAY # Bayen Munchen
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = BAX # Bayen Landshut
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = BAZ # Bayen Straubing
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = BAW # Bayen Ingolstadt
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = PSS # Passau
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = PSS # Passau
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = BAV
+	second = FRR # Citystate Regenberg
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = BAV
+	second = FRR # Citystate Regenberg
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = NUR # Nurnberg
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = NUR # Nurnberg
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = NUS # Nuremberg
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = SLZ # Salzburg
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BAV
+	second = TIR # Tyrol
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}

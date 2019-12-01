@@ -1,0 +1,219 @@
+
+
+# Wessex
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = WSX
+	second = SOM
+	start_date = 867.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = WSX
+	second = SUX
+	start_date = 827.1.1
+	end_date = 868.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = WSX
+	second = KNT
+	start_date = 825.1.1
+	end_date = 871.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = WSX
+	second = ESX
+	start_date = 825.1.1
+	end_date = 871.1.1
+}
+
+
+# Mercia
+
+dependency = {
+	subject_type = "vassal"
+	first = MCR
+	second = HWI
+	start_date = 825.1.1
+	end_date = 871.1.1
+}
+
+
+# Anglo-Danish
+
+alliance = {
+	first = JOR
+	second = TLI
+	start_date = 867.1.1
+	end_date = 900.1.1
+}
+
+
+# Isle Vassals
+
+dependency = {
+	subject_type = "vassal"
+	first = TLI
+	second = MAX
+	start_date = 825.1.1
+	end_date = 871.1.1
+}
+
+
+# Pict Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = PCT
+	second = PCA
+	start_date = 769.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = PCT
+	second = PCE
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = PCT
+	second = PCI
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = PCT
+	second = PFB
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = PCT
+	second = PFD
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = PCT
+	second = PFR
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = PCT
+	second = PFT
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+
+
+# Scottish Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SCO
+	second = PCA
+	start_date = 867.1.1
+	end_date = 1356.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = SCO
+	second = PCE
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = SCO
+	second = PCI
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = SCO
+	second = PFB
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = SCO
+	second = PFD
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = SCO
+	second = PFR
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = SCO
+	second = PFT
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+
+# Tregor Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BTR
+	second = BSA
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BTR
+	second = BLN
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+
+
+# Brittany Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BRI
+	second = BBE
+	start_date = 867.1.1
+	end_date = 1356.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = BRI
+	second = BLN
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = BRI
+	second = BKN
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = BRI
+	second = BBZ
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}

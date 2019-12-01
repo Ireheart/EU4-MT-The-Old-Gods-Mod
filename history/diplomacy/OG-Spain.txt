@@ -1,0 +1,59 @@
+
+
+# Spain Islam
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = HAS
+	second = LEO # Leon
+	start_date = 769.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = HAS
+	second = GAL # Galicia
+	start_date = 769.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = HAS
+	second = CAS # Castile
+	start_date = 769.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = HAS
+	second = POR # Portugual
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+
+# Navara Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = NAV
+	second = ARA # Portugual
+	start_date = 769.1.1
+	end_date = 900.1.1
+}
+
+# Majorca 
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = BYZ
+	second = BLE # Majorca
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "tributary_state"
+	first = HUD
+	second = BLE # Majorca
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}

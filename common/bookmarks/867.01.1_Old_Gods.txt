@@ -1,0 +1,16 @@
+bookmark =
+{
+	name = "OLDGODS_NAME"
+	desc = "OLDGODS_DESC"
+	date = 867.1.1
+
+	country = WSX
+	country = MCR
+	country = SCO
+	country = NOL
+	country = BRI
+
+#	effect = {
+#		1 = { set_global_flag = f_game_start }
+#	}
+}

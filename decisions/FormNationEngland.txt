@@ -1,0 +1,59 @@
+country_decisions = {
+	
+	form_english_nation = {
+		major = yes
+		potential = {
+			NOT = { exists = ENG }
+			NOT = { exists = GBR }
+			OR = {
+				culture_group = british
+				culture_group = gaelic
+			}
+		}
+		provinces_to_highlight = {
+			region = south_england_region
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			south_england_region = {
+				type = all
+				owned_by = ROOT
+			}
+			OR = {
+				AND = {
+					absolutism = 5
+					adm_tech = 5
+					ADM = 5
+
+				}
+			}
+			owns = 236	 #London
+		}
+		effect = {
+			south_england_region = { limit = { owned_by = ROOT } hidden_effect = { remove_core = ENG } add_core = ENG }
+			south_england_region = { limit = { NOT = { owned_by = ROOT } } add_permanent_claim = ENG }
+			north_england_region = { limit = { owned_by = ROOT } hidden_effect = { remove_core = ENG } add_core = ENG }
+			north_england_region = { limit = { NOT = { owned_by = ROOT } } add_permanent_claim = ENG }
+			change_tag = ENG
+			add_absolutism = 5
+			add_prestige = 20
+			if = {
+				limit = { government = monarchy NOT = { has_country_modifier = title_5 has_country_modifier = title_6 } }
+				change_title_5 = yes
+			}
+			ENG = { Effect_set_capital = { target=236 } }
+			if = {
+				limit = {
+					has_custom_ideas = no
+					NOT = { has_idea_group = ENG_ideas }
+				}
+				swap_national_ideas_effect = yes
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+}

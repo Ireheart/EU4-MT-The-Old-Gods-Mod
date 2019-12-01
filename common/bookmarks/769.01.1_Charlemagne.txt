@@ -1,0 +1,16 @@
+bookmark =
+{
+	name = "CHARLEMAGNE_NAME"
+	desc = "CHARLEMAGNE_DESC"
+	date = 769.1.1
+
+	country = WSX
+	country = MCR
+	country = PIC
+	country = NOL
+	country = BTR
+
+#	effect = {
+#		1 = { set_global_flag = f_game_start }
+#	}
+}

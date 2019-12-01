@@ -1,0 +1,102 @@
+# WSX - England - Wessex
+
+government = monarchy
+add_government_reform = parliamentary_monarchy #feel free to revise
+add_government_reform = delegated_rulers
+add_government_reform = hereditary_elite
+government_rank = 1
+mercantilism = 0
+technology_group = western
+primary_culture = english
+add_accepted_culture = northern_e
+religion = catholic
+capital = 234
+fixed_capital = 234 # Wessex
+national_focus = DIP
+
+505.1.1 = {
+	add_country_modifier = { name = title_5 duration = -1 }
+	set_country_flag = title_5
+	set_country_flag = k_of_wsx
+	#set_variable = { which = "centralization_decentralization" value = 5 }
+	add_absolutism = -100
+	add_absolutism = 5
+	set_legacy_government = feudal_monarchy
+}
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = "longbowmen_modifier"
+		duration = -1
+	}
+}
+
+765.1.1 = {
+	monarch = {
+		name = "Cynewulf"
+		monarch_name = "Cynewulf"
+		dynasty = "Wessex"
+		death_date = 786.4.21
+		ADM = 4
+		DIP = 4
+		MIL = 5
+	}
+}
+786.1.1 = {
+	monarch = {
+		name = "Beorhtric"
+		monarch_name = "Beorhtric"
+		dynasty = "Wessex"
+		death_date = 802.5.27
+		ADM = 4
+		DIP = 4
+		MIL = 5
+	}
+	queen = {
+		country_of_origin = MCR
+		name = "Eadburh"
+		dynasty = "Iclingas"
+		female = yes
+		ADM = 3
+		DIP = 4
+		MIL = 2
+	}
+}
+867.1.1 = {
+	monarch = {
+		name = "Æthelred"
+		dynasty = "Wessex"
+		ADM = 4
+		DIP = 5
+		MIL = 6
+		birth_date = 840.11.13
+		death_date = 871.4.23
+	}
+	queen = {
+		country_of_origin = WSX
+		name = "Wulfthryth"
+		dynasty = "Wessex"
+		birth_date = 845.6.24
+		female = yes
+		ADM = 3
+		DIP = 4
+		MIL = 2
+	}
+	heir = {
+		name = "Alfred"
+		monarch_name = "Alfred the Great"
+		dynasty = "Wessex"
+		birth_date = 847.6.15
+		death_date = 899.10.26
+		claim = 95
+		ADM = 3
+		DIP = 3
+		MIL = 6
+	}
+	define_heir_to_general = {
+		fire = 4
+		shock = 4
+		manuever = 3
+		siege = 3
+	}
+}

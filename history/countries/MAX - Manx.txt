@@ -1,0 +1,52 @@
+# MAX - Manx
+
+government = tribal
+add_government_reform = tribal_kingdom #irish_monarchy
+government_rank = 1
+mercantilism = 0
+technology_group = western
+primary_culture = norse
+add_accepted_culture = norwegian
+religion = norse_pagan_reformed
+capital = 1514
+fixed_capital = 1514 # Mann
+national_focus = DIP
+historical_friend = JOR
+
+505.1.1 = {
+	add_country_modifier = { name = title_1 duration = -1 }
+	set_country_flag = title_1
+	set_country_flag = k_of_eng
+	#set_variable = { which = "centralization_decentralization" value = 5 }
+	add_absolutism = -100
+	add_absolutism = 0
+	set_legacy_government = tribal_kingdom_legacy
+}
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = "longbowmen_modifier"
+		duration = -1
+	}
+}
+
+769.1.1 = {
+	monarch = {
+		name = "Elidyr"
+		monarch_name = "Elidyr"
+		dynasty = "Manslaw"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}
+867.1.1 = {
+	monarch = {
+		name = "Ketill"
+		monarch_name = "Ketill"
+		dynasty = "Flatnefr"
+		ADM = 2
+		DIP = 2
+		MIL = 1
+	}
+}

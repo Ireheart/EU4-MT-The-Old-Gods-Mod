@@ -1,0 +1,547 @@
+# West Francia Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = GUY
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = ANJ
+	start_date = 760.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = NRM
+	start_date = 760.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = ARS
+	start_date = 760.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = HAI
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = LIE
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = NAM
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = BRB
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = LUX
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = AMG
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = TRI
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = PAL
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = NAS
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = FAL
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = HES
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = WBG
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = BMB
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = MAI
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = FLA
+	start_date = 760.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = FND
+	start_date = 760.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = FMA # Maine
+	start_date = 760.1.1
+	end_date = 1000.1.1
+}
+
+# West Francia German Vassals
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = JUL # Julich
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = FFW
+	second = AAC # Aachen Citystate
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = KOL # Cologne
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = FFW
+	second = FRK # Kolle Citystate
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = BRG # Berg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = GEL # Guelders
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = KLE # Cleves
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = MUN # Munsters
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = MRK # Mark
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = FFW
+	second = FRD # Dortmund Citystate
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = FFW
+	second = FRD # Dortmund Citystate
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = FFW
+	second = FRF # Frankfurt Citystate
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = WDK # Waldeck
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = ZIE # Ziegenhain
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = HEN # Henneberg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = THU # Thuringia
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = THU # Thuringia
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = HNU # Hanau
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = SCH # Schwarzburg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFW
+	second = SCH # Schwarzburg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = FFW
+	second = ERF # Citystate Erfurt 
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+
+
+# Middle Francia Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = BUR
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = ORL
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = AUV
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = PRO
+	start_date = 760.1.1
+	end_date =866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = BAR
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = LOR
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = MTV
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = BOU
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = TOU
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = CHP
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = BLO
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = DAU
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = FLY # Lyon
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = FTJ
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = NEV # Nevers
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = FFM
+	second = FRW # Citystate Worms
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+
+# Middle Francia German Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = STR # Strassburg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = DCP # Decapolis
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = ALS # Alsace
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = MLH # Mulhausen
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = FRE # Freiberg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = BAD # Baden
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = WUR # Wurttenberg
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = FFM
+	second = HOH # Hohenzollen
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "citystate_vassal"
+	first = FFM
+	second = ULM # Citystate ULM
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+
+# Dauphine Vassals
+
+dependency = {
+	subject_type = "vassal"
+	first = DAU
+	second = VLT
+	start_date = 760.1.1
+	end_date = 1000.1.1
+}
+
+# Touhouse Vassals
+
+dependency = {
+	subject_type = "vassal"
+	first = TOU
+	second = FRO
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+
+# Aquitaine Vassals
+
+
+# Transjurania Vassals
+
+dependency = {
+	subject_type = "vassal"
+	first = FTJ
+	second = GNV
+	start_date = 867.1.1
+	end_date = 1000.1.1
+}
+
+# Armagnac Vassals
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = AMG
+	second = DAL
+	start_date = 760.1.1
+	end_date = 1000.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = AMG
+	second = FOI
+	start_date = 760.1.1
+	end_date = 866.1.1
+}
+dependency = {
+	subject_type = "vassal"
+	first = AMG
+	second = CMJ
+	start_date = 760.1.1
+	end_date = 1000.1.1
+}
+
+# Duchy of Brabant Vassals
+
+dependency = {
+	subject_type = "vassal"
+	first = BRB
+	second = UTR
+	start_date = 760.1.1
+	end_date = 866.1.1
+}

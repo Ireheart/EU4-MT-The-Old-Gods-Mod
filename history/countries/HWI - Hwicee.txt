@@ -1,0 +1,42 @@
+# ENG - England
+
+government = monarchy
+add_government_reform = parliamentary_monarchy #feel free to revise
+add_government_reform = delegated_rulers
+add_government_reform = hereditary_elite
+government_rank = 1
+mercantilism = 0
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 236
+fixed_capital = 236 # London
+national_focus = DIP
+
+565.1.1 = {
+	add_country_modifier = { name = title_5 duration = -1 }
+	set_country_flag = title_5
+	set_country_flag = k_of_hwi
+	#set_variable = { which = "centralization_decentralization" value = 5 }
+	add_absolutism = -100
+	add_absolutism = 0
+	set_legacy_government = feudal_monarchy
+}
+
+1000.1.1 = {
+	add_country_modifier = {
+		name = "longbowmen_modifier"
+		duration = -1
+	}
+}
+
+750.1.1 = {
+	monarch = {
+		name = "Uhtred"
+		dynasty = "Oswalding"
+		ADM = 4
+		DIP = 5
+		MIL = 6
+		death_date = 779.4.23
+	}
+}

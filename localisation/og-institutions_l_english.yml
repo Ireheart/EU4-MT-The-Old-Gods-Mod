@@ -1,0 +1,13 @@
+﻿l_english:
+ divineright:0 "Divine Right" 
+ desc_divineright_i:0 "The age of Divine Right to rule, one ruler under god."
+ NO_DIVINERIGHT:0 "§YDivineright§! institution not present in the province"
+ TRIBES_RESIST_DIVINERIGHT:0 "Tribes strongly oppose §YDivineright§!"
+ CAPITAL_IN_OLD_WORLD_TRIBAL:0 "Old World Tribal Capital"
+ BIRTHPLACE_OF_INSTITUTION:0 "$PROV$ is the birthplace of the §Y$NAME$§!"
+ NEIGHBOR_HAS_DIVINERIGHT:0 "Nearby province has §YDivineright§!"
+ tooltip_divineright_embraced:0 "Owner has embraced §YDivineright§!, speeding its spread from nearby provinces"
+ tooltip_divineright_trade_dominant:0 "A country that has embraced §YDivineright§! is trading in a §YDominant Centre of Trade§!"
+ tooltip_divineright_trade_major:0 "A country that has embraced §YDivineright§! is trading in a §YMajor Centre of Trade§!"
+ tooltip_divineright_trade_important:0 "A country that has embraced §YDivineright§! is trading in an §YImportant Centre of Trade§!"
+ tooltip_divineright_trade_minor:0 "A country that has embraced §YDivineright§! is trading in a §YMinor Centre of Trade§!"

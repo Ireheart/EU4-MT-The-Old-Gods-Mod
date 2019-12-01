@@ -1,0 +1,54 @@
+
+
+# Spain Islam
+
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = HUD
+	second = HZA # Zaragoza
+	start_date = 769.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = HUD
+	second = HTO # Toledo
+	start_date = 769.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = HUD
+	second = HMC # Murcia
+	start_date = 769.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = HUD
+	second = HBJ # Beja
+	start_date = 769.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = HUD
+	second = HDJ # Badajoz
+	start_date = 769.1.1
+	end_date = 900.1.1
+}
+dependency = {
+	subject_type = "decentralized_vassal"
+	first = HUD
+	second = GRA # Granada
+	start_date = 769.1.1
+	end_date = 900.1.1
+}
+
+dependency = {
+	subject_type = "tributary_state"
+	first = HUD
+	second = POR # Portugual
+	start_date = 769.1.1
+	end_date = 866.1.1
+}
